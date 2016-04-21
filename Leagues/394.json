@@ -1,0 +1,19 @@
+{"count":18,"teams":[{
+	"id":5,"name":"FC Bayern München","shortName":"Bayern","squadMarketValue":"617,100,000 €","crestUrl":"http://upload.wikimedia.org/wikipedia/commons/c/c5/Logo_FC_Bayern_M%C3%BCnchen.svg"},{
+	"id":7,"name":"Hamburger SV","shortName":"HSV","squadMarketValue":"59,600,000 €","crestUrl":"http://upload.wikimedia.org/wikipedia/commons/6/66/HSV-Logo.svg"},{
+	"id":16,"name":"FC Augsburg","shortName":"Augsburg","squadMarketValue":"58,350,000 €","crestUrl":"http://upload.wikimedia.org/wikipedia/de/b/b5/Logo_FC_Augsburg.svg"},{
+	"id":9,"name":"Hertha BSC","shortName":"Hertha","squadMarketValue":"62,050,000 €","crestUrl":"http://upload.wikimedia.org/wikipedia/de/8/81/Hertha_BSC_Logo_2012.svg"},{
+	"id":3,"name":"Bayer Leverkusen","shortName":"Leverkusen","squadMarketValue":"202,500,000 €","crestUrl":"http://upload.wikimedia.org/wikipedia/de/9/95/Bayer_04_Leverkusen_Logo.svg"},{
+	"id":2,"name":"TSG 1899 Hoffenheim","shortName":"Hoffenheim","squadMarketValue":"99,750,000 €","crestUrl":"http://upload.wikimedia.org/wikipedia/de/e/e7/Logo_TSG_Hoffenheim.svg"},{
+	"id":55,"name":"SV Darmstadt 98","shortName":"Darmstadt","squadMarketValue":"20,700,000 €","crestUrl":"http://upload.wikimedia.org/wikipedia/de/8/87/Svdarmstadt98.svg"},{
+	"id":8,"name":"Hannover 96","shortName":"Hannover","squadMarketValue":"59,750,000 €","crestUrl":"http://upload.wikimedia.org/wikipedia/de/c/cd/Hannover_96_Logo.svg"},{
+	"id":15,"name":"1. FSV Mainz 05","shortName":"Mainz","squadMarketValue":"57,600,000 €","crestUrl":"http://upload.wikimedia.org/wikipedia/de/0/0b/FSV_Mainz_05_Logo.svg"},{
+	"id":31,"name":"FC Ingolstadt 04","shortName":"Ingolstadt","squadMarketValue":"28,800,000 €","crestUrl":"http://upload.wikimedia.org/wikipedia/de/5/55/FC-Ingolstadt_logo.svg"},{
+	"id":12,"name":"Werder Bremen","shortName":"Bremen","squadMarketValue":"55,550,000 €","crestUrl":"http://upload.wikimedia.org/wikipedia/commons/b/be/SV-Werder-Bremen-Logo.svg"},{
+	"id":6,"name":"FC Schalke 04","shortName":"Schalke","squadMarketValue":"213,875,000 €","crestUrl":"http://upload.wikimedia.org/wikipedia/de/6/6d/FC_Schalke_04_Logo.svg"},{
+	"id":4,"name":"Borussia Dortmund","shortName":"Dortmund","squadMarketValue":"321,150,000 €","crestUrl":"http://upload.wikimedia.org/wikipedia/commons/6/67/Borussia_Dortmund_logo.svg"},{
+	"id":18,"name":"Bor. Mönchengladbach","shortName":"M'gladbach","squadMarketValue":"151,650,000 €","crestUrl":"https://upload.wikimedia.org/wikipedia/commons/8/81/Borussia_M%C3%B6nchengladbach_logo.svg"},{
+	"id":11,"name":"VfL Wolfsburg","shortName":"Wolfsburg","squadMarketValue":"191,000,000 €","crestUrl":"https://upload.wikimedia.org/wikipedia/commons/f/f3/Logo-VfL-Wolfsburg.svg"},{
+	"id":19,"name":"Eintracht Frankfurt","shortName":"Eintr. Frankfurt","squadMarketValue":"81,750,000 €","crestUrl":"http://upload.wikimedia.org/wikipedia/commons/0/04/Eintracht_Frankfurt_Logo.svg"},{
+	"id":10,"name":"VfB Stuttgart","shortName":"Stuttgart","squadMarketValue":"75,450,000 €","crestUrl":"http://upload.wikimedia.org/wikipedia/commons/a/ab/VfB_Stuttgart_Logo.svg"},{
+	"id":1,"name":"1. FC Köln","shortName":"Köln","squadMarketValue":"57,800,000 €","crestUrl":"http://upload.wikimedia.org/wikipedia/de/1/16/1._FC_K%C3%B6ln.svg"}]}
